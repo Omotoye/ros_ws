@@ -1,5 +1,5 @@
 # For the vscode setting and configurations
 *.json
 *.vscode
-
+*.log
 
