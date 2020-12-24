@@ -8,6 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/omotoye/Desktop/ros_ws/devel:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/omotoye/Desktop/ros_ws/devel/lib:$LD_LIBRARY_PATH"
 export PWD='/home/omotoye/Desktop/ros_ws/build'
 export ROSLISP_PACKAGE_DIRECTORIES='/home/omotoye/Desktop/ros_ws/devel/share/common-lisp'
 export ROS_PACKAGE_PATH="/home/omotoye/Desktop/ros_ws/src:$ROS_PACKAGE_PATH"

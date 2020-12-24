@@ -35,3 +35,12 @@
 /home/omotoye/Desktop/ros_ws/build/gtest/googletest/CMakeFiles/test.dir
 /home/omotoye/Desktop/ros_ws/build/gtest/googletest/CMakeFiles/gtest_main.dir
 /home/omotoye/Desktop/ros_ws/build/gtest/googletest/CMakeFiles/gtest.dir
+/home/omotoye/Desktop/ros_ws/build/my_first_p/CMakeFiles/install/strip.dir
+/home/omotoye/Desktop/ros_ws/build/my_first_p/CMakeFiles/install/local.dir
+/home/omotoye/Desktop/ros_ws/build/my_first_p/CMakeFiles/install.dir
+/home/omotoye/Desktop/ros_ws/build/my_first_p/CMakeFiles/list_install_components.dir
+/home/omotoye/Desktop/ros_ws/build/my_first_p/CMakeFiles/rebuild_cache.dir
+/home/omotoye/Desktop/ros_ws/build/my_first_p/CMakeFiles/edit_cache.dir
+/home/omotoye/Desktop/ros_ws/build/my_first_p/CMakeFiles/test.dir
+/home/omotoye/Desktop/ros_ws/build/my_first_p/CMakeFiles/hello_cpp_e.dir
+/home/omotoye/Desktop/ros_ws/build/my_first_p/CMakeFiles/_catkin_empty_exported_target.dir
