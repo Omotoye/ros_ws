@@ -132,6 +132,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/omotoye/Desktop/ros_ws/build/gtest/cmake_install.cmake")
   include("/home/omotoye/Desktop/ros_ws/build/my_first_p/cmake_install.cmake")
+  include("/home/omotoye/Desktop/ros_ws/build/node_basics_p/cmake_install.cmake")
 
 endif()
 
