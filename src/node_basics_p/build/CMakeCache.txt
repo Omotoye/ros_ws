@@ -459,7 +459,7 @@ xmlrpcpp_DIR:PATH=/opt/ros/noetic/share/xmlrpcpp/cmake
 ########################
 
 //catkin environment
-CATKIN_ENV:INTERNAL=/home/omotoye/Desktop/ros_ws/src/node_basics_p/build/catkin_generated/env_cached.sh
+CATKIN_ENV:INTERNAL=
 CATKIN_TEST_RESULTS_DIR:INTERNAL=/home/omotoye/Desktop/ros_ws/src/node_basics_p/build/test_results
 //ADVANCED property for variable: CMAKE_ADDR2LINE
 CMAKE_ADDR2LINE-ADVANCED:INTERNAL=1
